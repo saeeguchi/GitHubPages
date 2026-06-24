@@ -1,1 +1,1 @@
-# GitHubPages
+# GitCourse7
